@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+You can call me luking.👀
+- 🌱 I'm currently do some frontend practice on [frontend mentor](https://www.frontendmentor.io/profile/alululululuer).
+- 🍀 I'm learning React basics.
+- 🌟 I want to be a frontend developer someday.
+- 📫 Contact via alululululuer@163.com.
+
 <!--
 **alululululuer/alululululuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
